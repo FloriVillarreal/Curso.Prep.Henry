@@ -1,0 +1,4 @@
+Variables: son espacios donde se puede guardar informacion para ocuparla despues cuando se necesite
+String: es un tipo de dato que se puede guardar en las variables, consiste en una cadena de texto y tiene que ir entre comillas siempre
+Funciones: son objetos a los cuales se los puede llamar y devuelven o realizan comandos que se les asigna. Pueden tener o no argumentos y nos devuelven la informacion con un return
+Declaraciones: son formas para que la funcion nos devuelva la informacion. If seria un condicional que nos indica si es verdadero o falso

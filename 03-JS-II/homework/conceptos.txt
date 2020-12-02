@@ -1,0 +1,5 @@
+for : es un bucle que se usa para no repetir informacion, se repite cumpliendo una condicion
+&&, ||, ! : son operadores logicos
+&& and/y solo es verdadero si los valores de los dos argumentos son verdaders
+|| or/o  solo es falso cuando los valores de los argumentos son falsos
+! no/negacion invierte el valor del argumento

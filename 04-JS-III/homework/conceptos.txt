@@ -1,0 +1,4 @@
+arrays: es una coleccion de datos los cuales pueden ser de diferentes tipos.
+se lo creo con [] y los elementos tienen que estan separados por comas. 
+Se puede acceder a los elementos cuando queramos.
+Los arrays siempre empiezan desde 0

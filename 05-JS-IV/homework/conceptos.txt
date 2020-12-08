@@ -1,0 +1,5 @@
+Objetos : son muy parecidos a los arrays pero contienen mucha informacion sobre una misma cosa y se inician con {}
+Propiedades : son los identificadores de los valores que se le quiere aseignar a el objeto. seria como el indice de los arrays
+Métodos: son funciones que se guardan en un objeto
+Bucle for…in : es la forma de recorrer las propiedades de un objeto ya que este no tiene indices si no claves.
+Notación de puntos vs notación de corchetes: la notacion por puntos sirve para llamar a la propiedades del objeto y se escribe el nombre del objeto y un punto. y la notacion por corchetes sirve para lo mismo pero es vez del punto se escribe el nombre del objeto y la propiedad entre corchetes.

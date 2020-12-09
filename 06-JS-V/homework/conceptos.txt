@@ -1,0 +1,2 @@
+Prototype : es la forma de declarar metodos a las clases para no repetir el codigo en cada objeto
+Constructors(de clases): es el metodo para iniciar una clase

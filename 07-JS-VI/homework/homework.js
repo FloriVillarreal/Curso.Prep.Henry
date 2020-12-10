@@ -9,7 +9,7 @@ function sumarArray(numeros, cb) {
   // Suma todos los números enteros (int/integers) de un array ("numeros")
   // Pasa el resultado a `cb`
   // No es necesario devolver nada
-   va suma = 0;
+   var suma = 0;
    for (i=0; i<numeros.length; i ++){
      suma = suma  + numeros[i];
    }
@@ -29,8 +29,9 @@ function map(array, cb) {
   // Itera sobre cada valor en "array", pásalo a `cb` y luego ubicar el valor devuelto por `cb` en un nuevo array
   // El nuevo array debe tener la misma longitud que el array del argumento
   var nuevoArray = array.map(function(elemento){
-    cb(elemento)
+    return cb(elemento)
   })
+  return nuevoArray
 
 }
 
